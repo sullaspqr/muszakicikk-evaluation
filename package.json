@@ -1,0 +1,14 @@
+{
+  "name": "muszaki-evaluator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "evaluate": "node evaluator.js"
+  },
+  "dependencies": {
+    "simple-git": "^3.17.0",
+    "eslint": "^8.48.0",
+    "axios": "^1.5.0",
+    "exceljs": "^4.3.0"
+  }
+}
