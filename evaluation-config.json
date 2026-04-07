@@ -1,31 +1,19 @@
 {
   "frontendCriteria": [
-    { "id": 1, "task": "Project initialization and folder structure", "maxPoints": 5 },
-    { "id": 2, "task": "Bootstrap integration and responsive styling", "maxPoints": 5 },
-    { "id": 3, "task": "Navbar and routing setup using React Router", "maxPoints": 5 },
-    { "id": 4, "task": "TipusLista component implementation", "maxPoints": 5 },
-    { "id": 5, "task": "TipusReszletek component implementation", "maxPoints": 5 },
-    { "id": 6, "task": "UjTipus component and form handling", "maxPoints": 5 },
-    { "id": 7, "task": "GET /api/tipus integration and list fetch", "maxPoints": 5 },
-    { "id": 8, "task": "GET /api/tipus/{id} integration and detail fetch", "maxPoints": 5 },
-    { "id": 9, "task": "POST /api/tipus integration and create operation", "maxPoints": 5 },
-    { "id": 10, "task": "Image display and URL validation", "maxPoints": 5 },
-    { "id": 11, "task": "Form validation and user feedback", "maxPoints": 5 },
-    { "id": 12, "task": "Error handling (alerts, console logs)", "maxPoints": 5 },
-    { "id": 13, "task": "React Router Links and backward navigation", "maxPoints": 5 },
-    { "id": 14, "task": "Screenshot documentation in README", "maxPoints": 5 },
-    { "id": 15, "task": "Code quality (ESLint, formatting, best practices)", "maxPoints": 5 }
-  ],
-  "backendCriteria": [
-    { "id": 1, "task": "EF Core DataContext configuration", "maxPoints": 5 },
-    { "id": 2, "task": "Tipus model with data annotations", "maxPoints": 5 },
-    { "id": 3, "task": "GET /api/tipus endpoint implementation", "maxPoints": 5 },
-    { "id": 4, "task": "GET /api/tipus/{id} endpoint implementation", "maxPoints": 5 },
-    { "id": 5, "task": "POST /api/tipus endpoint implementation", "maxPoints": 5 },
-    { "id": 6, "task": "PUT /api/tipus/{id} endpoint implementation", "maxPoints": 5 },
-    { "id": 7, "task": "DELETE /api/tipus/{id} endpoint implementation", "maxPoints": 5 },
-    { "id": 8, "task": "Swagger/OpenAPI support integration", "maxPoints": 5 },
-    { "id": 9, "task": "In-memory database seeding", "maxPoints": 5 },
-    { "id": 10, "task": "Program.cs configuration and middleware setup", "maxPoints": 5 }
+    { "id": 1, "task": "Project initialization and folder structure", "maxPoints": 1 },
+    { "id": 2, "task": "Bootstrap integration and responsive styling", "maxPoints": 1 },
+    { "id": 3, "task": "Navbar and routing setup using React Router", "maxPoints": 1 },
+    { "id": 4, "task": "TipusLista component implementation", "maxPoints": 1 },
+    { "id": 5, "task": "TipusReszletek component implementation", "maxPoints": 1 },
+    { "id": 6, "task": "UjTipus component and form handling", "maxPoints": 1 },
+    { "id": 7, "task": "GET /api/tipus integration and list fetch", "maxPoints": 1 },
+    { "id": 8, "task": "GET /api/tipus/{id} integration and detail fetch", "maxPoints": 1 },
+    { "id": 9, "task": "POST /api/tipus integration and create operation", "maxPoints": 1 },
+    { "id": 10, "task": "Image display and URL validation", "maxPoints": 1 },
+    { "id": 11, "task": "Form validation and user feedback", "maxPoints": 1 },
+    { "id": 12, "task": "Error handling (alerts, console logs)", "maxPoints": 1 },
+    { "id": 13, "task": "React Router Links and backward navigation", "maxPoints": 1 },
+    { "id": 14, "task": "Screenshot documentation in README", "maxPoints": 1 },
+    { "id": 15, "task": "Code quality (ESLint, formatting, best practices)", "maxPoints": 1 }
   ]
 }
